@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\bin\Debug\net8.0\PrototypeShapes.exe
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\bin\Debug\net8.0\PrototypeShapes.deps.json
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\bin\Debug\net8.0\PrototypeShapes.runtimeconfig.json
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\bin\Debug\net8.0\PrototypeShapes.dll
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\bin\Debug\net8.0\PrototypeShapes.pdb
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.dll
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\refint\PrototypeShapes.dll
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.pdb
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\PrototypeShapes.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\PrototypeShapes\PrototypeShapes\obj\Debug\net8.0\ref\PrototypeShapes.dll
