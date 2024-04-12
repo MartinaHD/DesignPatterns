@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\bin\Debug\net6.0\BridgePayment.exe
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\bin\Debug\net6.0\BridgePayment.deps.json
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\bin\Debug\net6.0\BridgePayment.runtimeconfig.json
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\bin\Debug\net6.0\BridgePayment.dll
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\bin\Debug\net6.0\BridgePayment.pdb
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.AssemblyInfo.cs
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.dll
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\refint\BridgePayment.dll
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.pdb
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\BridgePayment.genruntimeconfig.cache
+C:\Users\student\source\repos\DesignPatterns\BridgePayment\BridgePayment\obj\Debug\net6.0\ref\BridgePayment.dll

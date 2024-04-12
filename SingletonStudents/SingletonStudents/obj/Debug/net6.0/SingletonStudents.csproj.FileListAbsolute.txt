@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\bin\Debug\net6.0\SingletonStudents.exe
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\bin\Debug\net6.0\SingletonStudents.deps.json
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\bin\Debug\net6.0\SingletonStudents.runtimeconfig.json
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\bin\Debug\net6.0\SingletonStudents.dll
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\bin\Debug\net6.0\SingletonStudents.pdb
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.AssemblyInfo.cs
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.dll
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\refint\SingletonStudents.dll
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.pdb
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\SingletonStudents.genruntimeconfig.cache
+C:\Users\student\source\repos\DesignPatterns\SingletonStudents\SingletonStudents\obj\Debug\net6.0\ref\SingletonStudents.dll

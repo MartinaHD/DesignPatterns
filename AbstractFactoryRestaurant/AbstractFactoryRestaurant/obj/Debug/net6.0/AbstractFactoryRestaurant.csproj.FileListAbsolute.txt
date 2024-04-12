@@ -1,0 +1,15 @@
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net6.0\AbstractFactoryRestaurant.exe
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net6.0\AbstractFactoryRestaurant.deps.json
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net6.0\AbstractFactoryRestaurant.runtimeconfig.json
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net6.0\AbstractFactoryRestaurant.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net6.0\AbstractFactoryRestaurant.pdb
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.AssemblyInfo.cs
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\refint\AbstractFactoryRestaurant.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.pdb
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\AbstractFactoryRestaurant.genruntimeconfig.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net6.0\ref\AbstractFactoryRestaurant.dll

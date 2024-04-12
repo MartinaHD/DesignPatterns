@@ -1,0 +1,15 @@
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\bin\Debug\net6.0\RestaurantSimpleFactory.exe
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\bin\Debug\net6.0\RestaurantSimpleFactory.deps.json
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\bin\Debug\net6.0\RestaurantSimpleFactory.runtimeconfig.json
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\bin\Debug\net6.0\RestaurantSimpleFactory.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\bin\Debug\net6.0\RestaurantSimpleFactory.pdb
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.AssemblyInfoInputs.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.AssemblyInfo.cs
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\refint\RestaurantSimpleFactory.dll
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.pdb
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\RestaurantSimpleFactory.genruntimeconfig.cache
+C:\Users\student\Source\Repos\DesignPatterns\AbstractFactoryRestaurant\RestaurantSimpleFactory\obj\Debug\net6.0\ref\RestaurantSimpleFactory.dll

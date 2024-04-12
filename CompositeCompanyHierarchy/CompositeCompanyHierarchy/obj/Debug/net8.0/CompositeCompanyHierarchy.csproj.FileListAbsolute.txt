@@ -1,0 +1,15 @@
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\bin\Debug\net8.0\CompositeCompanyHierarchy.exe
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\bin\Debug\net8.0\CompositeCompanyHierarchy.deps.json
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\bin\Debug\net8.0\CompositeCompanyHierarchy.runtimeconfig.json
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\bin\Debug\net8.0\CompositeCompanyHierarchy.dll
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\bin\Debug\net8.0\CompositeCompanyHierarchy.pdb
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.AssemblyInfoInputs.cache
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.AssemblyInfo.cs
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.csproj.CoreCompileInputs.cache
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.sourcelink.json
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.dll
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\refint\CompositeCompanyHierarchy.dll
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.pdb
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\CompositeCompanyHierarchy.genruntimeconfig.cache
+D:\C#\CompositeCompanyHierarchy\CompositeCompanyHierarchy\obj\Debug\net8.0\ref\CompositeCompanyHierarchy.dll

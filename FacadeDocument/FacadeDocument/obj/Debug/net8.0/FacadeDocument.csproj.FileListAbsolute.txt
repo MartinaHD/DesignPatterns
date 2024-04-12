@@ -1,0 +1,15 @@
+D:\C#\FacadeDocument\FacadeDocument\bin\Debug\net8.0\FacadeDocument.exe
+D:\C#\FacadeDocument\FacadeDocument\bin\Debug\net8.0\FacadeDocument.deps.json
+D:\C#\FacadeDocument\FacadeDocument\bin\Debug\net8.0\FacadeDocument.runtimeconfig.json
+D:\C#\FacadeDocument\FacadeDocument\bin\Debug\net8.0\FacadeDocument.dll
+D:\C#\FacadeDocument\FacadeDocument\bin\Debug\net8.0\FacadeDocument.pdb
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.AssemblyInfoInputs.cache
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.AssemblyInfo.cs
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.csproj.CoreCompileInputs.cache
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.sourcelink.json
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.dll
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\refint\FacadeDocument.dll
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.pdb
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\FacadeDocument.genruntimeconfig.cache
+D:\C#\FacadeDocument\FacadeDocument\obj\Debug\net8.0\ref\FacadeDocument.dll

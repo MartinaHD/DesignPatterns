@@ -1,0 +1,14 @@
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.AssemblyInfoInputs.cache
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.AssemblyInfo.cs
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.csproj.CoreCompileInputs.cache
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net8.0\AbstractFactoryRestaurant.exe
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net8.0\AbstractFactoryRestaurant.deps.json
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net8.0\AbstractFactoryRestaurant.runtimeconfig.json
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net8.0\AbstractFactoryRestaurant.dll
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\bin\Debug\net8.0\AbstractFactoryRestaurant.pdb
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.dll
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\refint\AbstractFactoryRestaurant.dll
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.pdb
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\AbstractFactoryRestaurant.genruntimeconfig.cache
+D:\C#\AbstractFactoryRestaurant\AbstractFactoryRestaurant\obj\Debug\net8.0\ref\AbstractFactoryRestaurant.dll

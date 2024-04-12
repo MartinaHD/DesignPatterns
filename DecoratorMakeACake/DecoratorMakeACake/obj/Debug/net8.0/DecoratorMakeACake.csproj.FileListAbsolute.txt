@@ -1,0 +1,15 @@
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\bin\Debug\net8.0\DecoratorMakeACake.exe
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\bin\Debug\net8.0\DecoratorMakeACake.deps.json
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\bin\Debug\net8.0\DecoratorMakeACake.runtimeconfig.json
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\bin\Debug\net8.0\DecoratorMakeACake.dll
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\bin\Debug\net8.0\DecoratorMakeACake.pdb
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.AssemblyInfoInputs.cache
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.AssemblyInfo.cs
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.csproj.CoreCompileInputs.cache
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.sourcelink.json
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.dll
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\refint\DecoratorMakeACake.dll
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.pdb
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\DecoratorMakeACake.genruntimeconfig.cache
+D:\C#\DecoratorMakeACake\DecoratorMakeACake\obj\Debug\net8.0\ref\DecoratorMakeACake.dll

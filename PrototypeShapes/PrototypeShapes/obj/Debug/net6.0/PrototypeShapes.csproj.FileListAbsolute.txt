@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\bin\Debug\net6.0\PrototypeShapes.exe
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\bin\Debug\net6.0\PrototypeShapes.deps.json
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\bin\Debug\net6.0\PrototypeShapes.runtimeconfig.json
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\bin\Debug\net6.0\PrototypeShapes.dll
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\bin\Debug\net6.0\PrototypeShapes.pdb
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.AssemblyInfo.cs
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.dll
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\refint\PrototypeShapes.dll
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.pdb
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\PrototypeShapes.genruntimeconfig.cache
+C:\Users\student\source\repos\DesignPatterns\PrototypeShapes\PrototypeShapes\obj\Debug\net6.0\ref\PrototypeShapes.dll

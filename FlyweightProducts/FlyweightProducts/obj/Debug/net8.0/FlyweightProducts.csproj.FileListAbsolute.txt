@@ -1,0 +1,15 @@
+D:\C#\FlyweightProducts\FlyweightProducts\bin\Debug\net8.0\FlyweightProducts.exe
+D:\C#\FlyweightProducts\FlyweightProducts\bin\Debug\net8.0\FlyweightProducts.deps.json
+D:\C#\FlyweightProducts\FlyweightProducts\bin\Debug\net8.0\FlyweightProducts.runtimeconfig.json
+D:\C#\FlyweightProducts\FlyweightProducts\bin\Debug\net8.0\FlyweightProducts.dll
+D:\C#\FlyweightProducts\FlyweightProducts\bin\Debug\net8.0\FlyweightProducts.pdb
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.AssemblyInfoInputs.cache
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.AssemblyInfo.cs
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.csproj.CoreCompileInputs.cache
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.sourcelink.json
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.dll
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\refint\FlyweightProducts.dll
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.pdb
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\FlyweightProducts.genruntimeconfig.cache
+D:\C#\FlyweightProducts\FlyweightProducts\obj\Debug\net8.0\ref\FlyweightProducts.dll

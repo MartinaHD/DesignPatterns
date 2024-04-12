@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\bin\Debug\net6.0\AdapterBooks.exe
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\bin\Debug\net6.0\AdapterBooks.deps.json
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\bin\Debug\net6.0\AdapterBooks.runtimeconfig.json
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\bin\Debug\net6.0\AdapterBooks.dll
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\bin\Debug\net6.0\AdapterBooks.pdb
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.AssemblyInfo.cs
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.dll
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\refint\AdapterBooks.dll
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.pdb
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\AdapterBooks.genruntimeconfig.cache
+C:\Users\student\source\repos\DesignPatterns\AdapterBooks\AdapterBooks\obj\Debug\net6.0\ref\AdapterBooks.dll
